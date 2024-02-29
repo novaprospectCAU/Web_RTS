@@ -1,0 +1,19 @@
+.page {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+}
+
+.main {
+}
+
+.mapGenerator {
+}
+
+.inGame {
+}
+
+.footer {
+}
